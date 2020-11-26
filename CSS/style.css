@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.myMargin{
+    margin: 15px;
+}
+
+body{
+    background-size: cover;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+    text-align: center;
+  }
+  .t01 {
+    width: 100%;    
+    background-color: #f1f1c1;
+  }
+  #tab {
+    /* border: 3px solid white; */
+    width: 50%;
+    float: left;
+    margin-left: 25%;
+    height: 10.67em;
+    padding: 5px;
+    align-items: center;
+  }
+  #jbutton{
+    margin-left: 47%;
+
+  }
+  h2{
+      color: white;
+      background-color: black;
+      text-align: center;
+  }
